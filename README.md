@@ -15,7 +15,7 @@
 ------
 
 Research interests...
-- My current research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating cognition, emotion, and mental health, particularly from an individual differences and developmental perspective! I am also interested in topics in educational neuroscience and personality psychology.
+- My current research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating emotion, cognition, and mental health, and their interactions with the brain and body, particularly from an individual differences and developmental perspective! I am also interested in topics in educational neuroscience and personality psychology.
 
 What I am currently working on...
 - At the Clinical Brain Lab at NTU, I am currently investigating the effects of an [exercise intervention programme](https://www.clinicalbrain.org/project/ageing/) on cognition in the elderly in Singapore, using the combined modalities of TMS-EEG to measure brain plasticity throughout the course of the intervention.
