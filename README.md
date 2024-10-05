@@ -6,17 +6,23 @@
 [![Twitter](https://img.shields.io/twitter/follow/WilsonLimPH?label=%20%40WilsonLim&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/WilsonLimPH)
 
 ------
-
-💼 Research Associate | 🧠 Clinical Brain Lab, Nanyang Technological University | Singapore 🇸🇬 \
+🎓 Institute of Cognitive Neuroscience PhD/MPhil | University College London | United Kingdom 🇬🇧 \
 🎓 MRes Cognitive Neuroscience | University College London | United Kingdom 🇬🇧 
+
+Previously: 💼 Research Associate | 🧠 Clinical Brain Lab, Nanyang Technological University | Singapore 🇸🇬 
+
 
 👨‍💻 Python | R | Matlab | ReactJS | HTML | CSS | JavaScript
 
 ------
 
 Research interests...
-- My current research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating emotion, cognition, and mental health, and their interactions with the brain and body, particularly from an individual differences and developmental perspective! I am also interested in topics in educational neuroscience and personality psychology.
+- My current research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating emotion, cognition, and mental health, and their interactions with the brain and body, particularly from an individual differences and developmental perspective! 
 
 What I am currently working on...
-- At the Clinical Brain Lab at NTU, I am currently investigating the effects of an [exercise intervention programme](https://www.clinicalbrain.org/project/ageing/) on cognition in the elderly in Singapore, using the combined modalities of TMS-EEG to measure brain plasticity throughout the course of the intervention.
-- I am also involved in an [educational neuroscience project](https://www.clinicalbrain.org/project/translate-neuro/) seeking to develop a [visualisation website](https://navigating-the-adult-learner-brain.vercel.app/) (using ReactJS) to present neuroscience findings on autism spectrum disorders (ASD) and attention-deficit/hyperactivity disorder to educators. The goal of this website is to allow educators to better understand the brain-behaviour relationships in adults with ASD/ADHD, by helping to visualise the brain regions/networks with their associated behavioural functions.
+- I am currently undertaking the [Institute of Cognitive Neuroscience PhD/MPhil](https://www.ucl.ac.uk/icn/study/postgraduate-research-degrees) programme at University College London under the supervision of Prof Sarah Garfinkel.
+
+What I previously worked on...
+- At the Clinical Brain Lab at NTU, I was involved in a [project](https://www.clinicalbrain.org/project/fake-news/) looking to identify the neurocognitive processes underlying the belief in deceptive (i.e., fake/real) information.
+- I also investigated the effects of an [exercise intervention programme](https://www.clinicalbrain.org/project/ageing/) on cognition in the elderly in Singapore, using the combined modalities of TMS-EEG to measure brain plasticity throughout the course of the intervention.
+- I was also involved in an [educational neuroscience project](https://www.clinicalbrain.org/project/translate-neuro/) seeking to develop a [visualisation website](https://navigating-the-adult-learner-brain.vercel.app/) (using ReactJS) to present neuroscience findings on autism spectrum disorders (ASD) and attention-deficit/hyperactivity disorder to educators. The goal of this website is to allow educators to better understand the brain-behaviour relationships in adults with ASD/ADHD, by helping to visualise the brain regions/networks with their associated behavioural functions.
